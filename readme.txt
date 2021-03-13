@@ -1,2 +1,1 @@
-this is a init file.
-I use it to test git.
+这是一个文件夹记录了我学习java编程语言写过的一些代码，用书参考：Java面向对象程序设计 孙连英 刘畅 彭涛著。
